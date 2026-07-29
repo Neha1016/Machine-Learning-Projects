@@ -1,0 +1,37 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Virtual Environment
+
+venv/
+env/
+.venv/
+
+# Environment variables
+
+.env
+
+# Operating System Files
+
+.DS_Store
+Thumbs.db
+
+# VS Code Settings
+
+.vscode/
+
+# Model Files (Uncomment if you don't want to upload trained models)
+
+# *.pkl
+
+# Python Distribution
+
+*.egg-info/
+build/
+dist/
