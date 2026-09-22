@@ -59,7 +59,7 @@ Machine-Learning-Projects/
 │
 ├── Diabetes_Prediction/
 │
-├── Credit_Card_Defaulter_Prediction/
+├── Crop_Advisor_Prediction/
 │
 ├── Air_Quality_Analysis/
 │
